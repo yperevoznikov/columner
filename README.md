@@ -1,4 +1,4 @@
-# Columnter
+# Columner
 It's not always easy to tame AWK :)
 
 # Make sure script executable
